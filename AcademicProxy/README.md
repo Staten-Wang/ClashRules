@@ -22,11 +22,11 @@ AcademicProxy 规则由 Staten-Wang 手动编辑生成。
 
 #### 规则链接
 
-**MASTER分支 (不定时更新)**
+**MAIN分支 (不定时更新)**
 
 <https://raw.githubusercontent.com/Staten-Wang/clash-rules-academic/main/AcademicProxy/AcademicProxy.yaml>
 
-**MASTER分支 CDN (不定时更新)**
+**MAIN分支 CDN (不定时更新)**
 
 <https://cdn.jsdelivr.net/gh/Staten-Wang/clash-rules-academic@main/AcademicProxy/AcademicProxy.yaml>
 
