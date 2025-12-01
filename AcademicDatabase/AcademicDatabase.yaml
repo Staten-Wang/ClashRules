@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,springernature.com
   - DOMAIN-SUFFIX,ieeexplore.ieee.org
   - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-SUFFIX,dl.acm.org
